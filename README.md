@@ -11,3 +11,6 @@ Directions:
 4.  Run "Exploratory Data Analysis and Variable Importance.ipynb" on the aforementioned CSV to gain insights.
 5.  Run PCA_matrix_from_dataframe.ipynb to generate a new, pickled data frame.
 6.  Run XGBoosting.ipynb on the aforementioned data frame to generate predictions.
+
+YouTube Presentation of this content:
+https://youtu.be/Fo9R_JnwXn8
